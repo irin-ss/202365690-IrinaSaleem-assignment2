@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     initThemeToggle();
     initGreeting();
-    // ---- Assignment 2 additions ----
+    // ---- Assignment 2 additions ---- got help from claude to make initial outlines and write and test them.
     initProjectFilter();
     initContactForm();
     initScrollReveal();

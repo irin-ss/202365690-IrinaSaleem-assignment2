@@ -606,7 +606,7 @@ textarea[aria-invalid="true"] {
     * { animation: none !important; transition: none !important; }
 }
 
-/* ---- Remembered visitor ("Not you?") ---- */
+/* ---- Remembered visitor ("Not you?") ---- mostly by claude*/
 .link-button {
     background: none;
     border: none;
